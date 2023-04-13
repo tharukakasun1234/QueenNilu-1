@@ -7,8 +7,8 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94762873406'] //ur owner number
+global.ownername = "Kasun Bro" //ur owner name
 
 //Bot Name 
 global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
@@ -25,7 +25,7 @@ BOT SETTINGS
 */
 
 //Language English = 'EN' , Sinhala = 'SI' , Tamil= 'TL'
-global.LANG = 'EN'
+global.LANG = 'SI'
 
 global.READ_MASSAGE = true
 
@@ -33,10 +33,10 @@ global.READ_MASSAGE = true
 global.VOICE_REPLY = true
 
 // Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 
 // Inbox massage block PM block
-global.INBOX_BLOCK = false
+global.INBOX_BLOCK = true
 
 //Inbox Block MSG
 global.INBOX_BLOCK_MSG = 'blockedd'
